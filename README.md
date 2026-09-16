@@ -7,9 +7,6 @@
 
 <!-- Profile Views & Followers -->
 
-<a href="https://github.com/mdtrong1305">
-  <img src="https://img.shields.io/badge/Profile%20Views-%E2%86%91-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <img src="https://komarev.com/ghpvc/?username=mdtrong1305&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 <a href="https://github.com/mdtrong1305?tab=followers">
   <img src="https://img.shields.io/github/followers/mdtrong1305?label=FOLLOWERS&style=for-the-badge&color=58A6FF&logo=github&logoColor=white" />
