@@ -22,7 +22,7 @@
 name: "Mai Duc Trong"
 role: "Full Stack Developer"
 location: "Vietnam 🇻🇳"
-experience: "~5 years of coding (self-taught → personal projects → freelance)"
+experience: "~6 years of coding (self-taught → personal projects → freelance)"
 
 currently_building:
   - "🌐 Full-stack web apps  — React + Next.js frontend, Node.js/Express backend,
