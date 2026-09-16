@@ -137,7 +137,6 @@ contact: "mdtrong1305@gmail.com"
   <img src="https://streak-stats.demolab.com?user=mdtrong1305&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C3D1D9&dates=C3D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
-
 ---
 
 ## 📈 Contribution Graph
