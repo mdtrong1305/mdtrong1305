@@ -19,18 +19,20 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name:       "mdtrong1305"
-role:       "Full Stack Developer"
-location:   "Vietnam 🇻🇳"
+name: "mdtrong1305"
+role: "Full Stack Developer"
+location: "Vietnam 🇻🇳"
 experience: "~5 years of coding (self-taught → personal projects → freelance)"
 
 currently_building:
   - "🌐 Full-stack web apps  — React + Next.js frontend, Node.js/Express backend,
-       REST API design, JWT auth, and cloud deployment"
+    REST API design, JWT auth, and cloud deployment"
   - "🐍 Python automation    — scripts, bots, task schedulers, and data scraping tools
-       that eliminate repetitive work"
+    that eliminate repetitive work"
+  - "🔍 Reverse engineering   — binary analysis, API hooking, DLL injection,
+    app patching & dynamic analysis (CTF / research)"
   - "🦀 Desktop apps         — cross-platform apps with Tauri + Rust for
-       native performance with a modern web UI"
+    native performance with a modern web UI"
 
 currently_learning:
   - "Go   — high-performance backend services & microservices"
@@ -41,7 +43,7 @@ open_to:
   - "Freelance / side projects"
   - "Collaborating on cool ideas 💡"
 
-goal:    "Become a well-rounded engineer who ships things that matter"
+goal: "Become a well-rounded engineer who ships things that matter"
 hobbies: ["Coding", "Open Source", "Learning new tech", "Problem Solving"]
 
 contact: "mdtrong1305@gmail.com"
@@ -106,7 +108,15 @@ contact: "mdtrong1305@gmail.com"
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+### 🔍 Reverse Engineering & Security
 
+<p align="left">
+  <img src="https://img.shields.io/badge/x64dbg-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi02aDJ2NnptMC04aC0yVjdoMnYyeiIvPjwvc3ZnPg==&logoColor=white&label=x64dbg" />
+  <img src="https://img.shields.io/badge/IDA_Pro-404040?style=for-the-badge&logoColor=white&label=IDA+Pro" />
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMm0wIDJhOCA4IDAgMCAxIDggOCA4IDggMCAwIDEtOCA4IDggOCAwIDAgMS04LTggOCA4IDAgMCAxIDgtOHoiLz48L3N2Zz4=&logoColor=white&label=Ghidra" />
+  <img src="https://img.shields.io/badge/Cheat_Engine-CC0000?style=for-the-badge&logoColor=white&label=Cheat+Engine" />
+  <img src="https://img.shields.io/badge/Frida-00BFFF?style=for-the-badge&logoColor=white&label=Frida" />
+</p>
 
 ---
 
