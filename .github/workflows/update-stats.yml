@@ -20,20 +20,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create assets directory
-        run: mkdir -p assets
-
-      - name: Download stats SVG
+      - name: Create assets directory and placeholder files
         run: |
-          curl -f -o assets/stats.svg \
+          mkdir -p assets
+          touch assets/stats.svg assets/top-langs.svg
+
+      - name: Download stats SVGs
+        run: |
+          curl -s -o assets/stats.svg \
             "https://github-readme-stats-torongdev.vercel.app/api?username=mdtrong1305&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" \
-            || echo "Failed to fetch stats.svg"
+            || echo "Warning: stats.svg fetch failed"
 
-      - name: Download top-langs SVG
-        run: |
-          curl -f -o assets/top-langs.svg \
+          curl -s -o assets/top-langs.svg \
             "https://github-readme-stats-torongdev.vercel.app/api/top-langs/?username=mdtrong1305&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=8" \
-            || echo "Failed to fetch top-langs.svg"
+            || echo "Warning: top-langs.svg fetch failed"
 
       - name: Commit SVGs to repository
         run: |
@@ -41,4 +41,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/stats.svg assets/top-langs.svg
           git diff --cached --quiet || git commit -m "chore: update GitHub stats SVGs"
-          git push
+          git push || echo "Nothing to push"
