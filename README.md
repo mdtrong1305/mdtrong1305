@@ -31,6 +31,8 @@ currently_building:
     that eliminate repetitive work"
   - "🔍 Reverse engineering   — binary analysis, API hooking, DLL injection,
     app patching & dynamic analysis (CTF / research)"
+  - "🌐 Web API interception  — capturing & analyzing HTTP/HTTPS traffic,
+    JS hooking & script injection for automation / research"
   - "🦀 Desktop apps         — cross-platform apps with Tauri + Rust for
     native performance with a modern web UI"
 
@@ -76,6 +78,7 @@ contact: "mdtrong1305@gmail.com"
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
 </p>
 
@@ -116,6 +119,9 @@ contact: "mdtrong1305@gmail.com"
   <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMm0wIDJhOCA4IDAgMCAxIDggOCA4IDggMCAwIDEtOCA4IDggOCAwIDAgMS04LTggOCA4IDAgMCAxIDgtOHoiLz48L3N2Zz4=&logoColor=white&label=Ghidra" />
   <img src="https://img.shields.io/badge/Cheat_Engine-CC0000?style=for-the-badge&logoColor=white&label=Cheat+Engine" />
   <img src="https://img.shields.io/badge/Frida-00BFFF?style=for-the-badge&logoColor=white&label=Frida" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/mitmproxy-0078D4?style=for-the-badge&logoColor=white&label=mitmproxy" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 ---
