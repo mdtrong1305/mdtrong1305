@@ -1,14 +1,19 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+mdtrong1305+%F0%9F%91%8B;Full+Stack+Developer;Building+cool+things+with+Rust+%26+Go+%F0%9F%A6%80;Open+Source+Enthusiast;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+mdtrong1305+%F0%9F%91%8B;Full+Stack+Developer;%2B5+Years+of+Coding+Experience+%F0%9F%92%AA;Building+cool+things+with+Rust+%26+Go+%F0%9F%A6%80;Open+Source+Enthusiast;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Views & Followers -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdtrong1305&style=flat-square&color=58A6FF&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/mdtrong1305?label=Followers&style=flat-square&color=58A6FF)](https://github.com/mdtrong1305?tab=followers)
+<a href="https://github.com/mdtrong1305">
+  <img src="https://img.shields.io/badge/Profile%20Views-%E2%86%91-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=mdtrong1305&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+<a href="https://github.com/mdtrong1305?tab=followers">
+  <img src="https://img.shields.io/github/followers/mdtrong1305?label=FOLLOWERS&style=for-the-badge&color=58A6FF&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -17,19 +22,22 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name:     "mdtrong1305"
-role:     "Full Stack Developer"
-location: "Vietnam 🇻🇳"
+name:       "mdtrong1305"
+role:       "Full Stack Developer"
+location:   "Vietnam 🇻🇳"
+experience: "~5 years of coding (self-taught → personal projects → freelance)"
 
 currently_building:
-  - "Full-stack web apps with React + Node.js"
-  - "Desktop apps with Tauri + Rust 🦀"
-  - "Automation tools & CLI utilities with Python 🐍"
+  - "🌐 Full-stack web apps  — React + Next.js frontend, Node.js/Express backend,
+       REST API design, JWT auth, and cloud deployment"
+  - "🐍 Python automation    — scripts, bots, task schedulers, and data scraping tools
+       that eliminate repetitive work"
+  - "🦀 Desktop apps         — cross-platform apps with Tauri + Rust for
+       native performance with a modern web UI"
 
 currently_learning:
-  - "Go   — for high-performance backend services"
-  - "Rust  — systems programming & WebAssembly"
-
+  - "Go   — high-performance backend services & microservices"
+  - "Rust  — systems programming, memory safety & WebAssembly"
 
 open_to:
   - "Open source contributions"
@@ -108,8 +116,8 @@ contact: "mdtrong1305@gmail.com"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdtrong1305&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtrong1305&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-sigma-gold.vercel.app/api?username=mdtrong1305&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" />
+  <img height="165" src="https://github-readme-stats-sigma-gold.vercel.app/api/top-langs/?username=mdtrong1305&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=8" />
 </p>
 
 <p align="center">
@@ -121,15 +129,15 @@ contact: "mdtrong1305@gmail.com"
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdtrong1305&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdtrong1305&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=-1" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdtrong1305/mdtrong1305/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtrong1305&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1e3a5f" />
 </p>
 
 ---
