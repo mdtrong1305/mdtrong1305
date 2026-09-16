@@ -130,8 +130,7 @@ contact: "mdtrong1305@gmail.com"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="./assets/stats.svg" />
-  <img height="165" src="./assets/top-langs.svg" />
+  <img src="./assets/stats.svg" />
 </p>
 
 <p align="center">
