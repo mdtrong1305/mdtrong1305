@@ -114,13 +114,14 @@ contact: "mdtrong1305@gmail.com"
 ### 🔍 Reverse Engineering & Security
 
 <p align="left">
-  <img src="https://img.shields.io/badge/x64dbg-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi02aDJ2NnptMC04aC0yVjdoMnYyeiIvPjwvc3ZnPg==&logoColor=white&label=x64dbg" />
-  <img src="https://img.shields.io/badge/IDA_Pro-404040?style=for-the-badge&logoColor=white&label=IDA+Pro" />
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMm0wIDJhOCA4IDAgMCAxIDggOCA4IDggMCAwIDEtOCA4IDggOCAwIDAgMS04LTggOCA4IDAgMCAxIDgtOHoiLz48L3N2Zz4=&logoColor=white&label=Ghidra" />
-  <img src="https://img.shields.io/badge/Cheat_Engine-CC0000?style=for-the-badge&logoColor=white&label=Cheat+Engine" />
-  <img src="https://img.shields.io/badge/Frida-00BFFF?style=for-the-badge&logoColor=white&label=Frida" />
+  <img src="https://img.shields.io/badge/dnSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-404040?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheat_Engine-CC0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-00BFFF?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/mitmproxy-0078D4?style=for-the-badge&logoColor=white&label=mitmproxy" />
+  <img src="https://img.shields.io/badge/mitmproxy-0078D4?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
@@ -129,8 +130,8 @@ contact: "mdtrong1305@gmail.com"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-torongdev.vercel.app/api?username=mdtrong1305&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" />
-  <img height="165" src="https://github-readme-stats-torongdev.vercel.app/api/top-langs/?username=mdtrong1305&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-torongdev.vercel.app/api?username=mdtrong1305&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9&cache_seconds=21600" />
+  <img height="165" src="https://github-readme-stats-torongdev.vercel.app/api/top-langs/?username=mdtrong1305&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=8&cache_seconds=21600" />
 </p>
 
 <p align="center">
