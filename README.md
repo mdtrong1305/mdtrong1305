@@ -6,6 +6,7 @@
 <br/>
 
 <!-- Profile Views & Followers -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mdtrong1305&style=flat-square&color=58A6FF&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/mdtrong1305?label=Followers&style=flat-square&color=58A6FF)](https://github.com/mdtrong1305?tab=followers)
 
@@ -19,13 +20,26 @@
 name:     "mdtrong1305"
 role:     "Full Stack Developer"
 location: "Vietnam 🇻🇳"
-focus:
-  - "Building full-stack web apps with React + Node.js"
-  - "Desktop apps with Tauri + Rust"
-  - "Automation tools & CLI utilities"
-  - "Exploring Machine Learning & AI"
-goal:     "Become a well-rounded engineer who ships things that matter"
-hobbies:  ["Coding", "Open Source", "Learning new tech", "Problem Solving"]
+
+currently_building:
+  - "Full-stack web apps with React + Node.js"
+  - "Desktop apps with Tauri + Rust 🦀"
+  - "Automation tools & CLI utilities with Python 🐍"
+
+currently_learning:
+  - "Go   — for high-performance backend services"
+  - "Rust  — systems programming & WebAssembly"
+
+
+open_to:
+  - "Open source contributions"
+  - "Freelance / side projects"
+  - "Collaborating on cool ideas 💡"
+
+goal:    "Become a well-rounded engineer who ships things that matter"
+hobbies: ["Coding", "Open Source", "Learning new tech", "Problem Solving"]
+
+contact: "mdtrong1305@gmail.com"
 ```
 
 ---
@@ -33,6 +47,7 @@ hobbies:  ["Coding", "Open Source", "Learning new tech", "Problem Solving"]
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -45,34 +60,48 @@ hobbies:  ["Coding", "Open Source", "Learning new tech", "Problem Solving"]
 </p>
 
 ### Frontend & Backend
+
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
 </p>
 
 ### DevOps & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ### Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### AI / ML
+### 🧰 Environment & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+
 
 ---
 
@@ -92,7 +121,7 @@ hobbies:  ["Coding", "Open Source", "Learning new tech", "Problem Solving"]
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdtrong1305&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdtrong1305&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -108,16 +137,16 @@ hobbies:  ["Coding", "Open Source", "Learning new tech", "Problem Solving"]
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <a href="https://linkedin.com/in/mdtrong1305" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_HERE" target="_blank">
+  <a href="https://facebook.com/mdtrong1305" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HERE" target="_blank">
+  <a href="https://instagram.com/mdtrong1305" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:mdtrong1305@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
