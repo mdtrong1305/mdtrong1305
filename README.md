@@ -137,20 +137,19 @@ contact: "mdtrong1305@gmail.com"
   <img src="https://streak-stats.demolab.com?user=mdtrong1305&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C3D1D9&dates=C3D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdtrong1305&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=-1" />
-</p>
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtrong1305&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1e3a5f" />
+  <!-- Contribution calendar — reliable, no workflow needed -->
+  <img src="https://ghchart.rshah.org/58a6ff/mdtrong1305" alt="mdtrong1305's Github Contribution Chart" />
+</p>
+
+<p align="center">
+  <!-- Snake animation — appears after GitHub Action 'Generate Snake Animation' runs -->
+  <img src="https://raw.githubusercontent.com/mdtrong1305/mdtrong1305/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 ---
