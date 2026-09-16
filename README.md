@@ -31,7 +31,7 @@ currently_building:
     that eliminate repetitive work"
   - "🔍 Reverse engineering   — binary analysis, API hooking, DLL injection,
     app patching & dynamic analysis (CTF / research)"
-  - "🌐 Web API interception  — capturing & analyzing HTTP/HTTPS traffic,
+  - "🕸️ Web API interception  — capturing & analyzing HTTP/HTTPS traffic,
     JS hooking & script injection for automation / research"
   - "🦀 Desktop apps         — cross-platform apps with Tauri + Rust for
     native performance with a modern web UI"
