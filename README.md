@@ -129,8 +129,8 @@ contact: "mdtrong1305@gmail.com"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-gold.vercel.app/api?username=mdtrong1305&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" />
-  <img height="165" src="https://github-readme-stats-sigma-gold.vercel.app/api/top-langs/?username=mdtrong1305&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-torongdev.vercel.app/api?username=mdtrong1305&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" />
+  <img height="165" src="https://github-readme-stats-torongdev.vercel.app/api/top-langs/?username=mdtrong1305&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=8" />
 </p>
 
 <p align="center">
