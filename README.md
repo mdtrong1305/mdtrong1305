@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: "mdtrong1305"
+name: "Mai Duc Trong"
 role: "Full Stack Developer"
 location: "Vietnam 🇻🇳"
 experience: "~5 years of coding (self-taught → personal projects → freelance)"
